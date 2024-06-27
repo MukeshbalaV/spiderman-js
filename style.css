@@ -99,12 +99,12 @@ h1.right{
 }
 .spd {
     position: absolute;
-    right: 0px; /* Adjust as needed */
-    top: 70%; /* Adjust as needed */
+    right: 0px; 
+    top: 70%; 
     transform: translateY(-50%);
-    max-width: 350px; /* Adjust as needed */
-    z-index: 0; /* Ensures it stays on top
-     if needed */
+    max-width: 350px; 
+    z-index: 0; 
+     
     height: 57%;
     }
     a {
